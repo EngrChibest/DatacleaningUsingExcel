@@ -15,4 +15,3 @@ Improve patient outcomes
 Reduce preventable complications
 Ease resource strain, and 
 Support Stark Health’s mission of delivering proactive, tech-driven care.
-![image](https://github.com/user-attachments/assets/4a954fd5-0ee1-4fc9-a121-478c12f30bde)
